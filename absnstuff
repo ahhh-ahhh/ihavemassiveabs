@@ -1,9 +1,7 @@
 {
-  "General":{
-    "Fly":"asd",
-    "Infinite Jump":"asd",
-  },
-  "Cool":{
-  "asd":"asd",
-  }
+  "General":[
+    {"Name":"Fly","Script":"asd"},
+    {"Name":"Infinite Jump","Script":"asd"},
+    
+  ]
 }
