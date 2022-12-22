@@ -2,6 +2,12 @@
   "General":[
     {"Name":"Fly","Script":"asd"},
     {"Name":"Infinite Jump","Script":"asd"},
-    
+    {"Name":"Wide Head","Script":"asd"},
+    {"Name":"Btools","Script":"asd"},
+    {"Name":"Morning","Script":"asd"},
+    {"Name":"Night","Script":"asd"},
+    {"Name":"Fire","Script":"asd"},
+    {"Name":"Smoke","Script":"asd"},
+    {"Name":"Sparkles","Script":"asd"},
   ]
 }
